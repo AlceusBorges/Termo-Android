@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079393902916",
+    "project_id": "termo-android",
+    "storage_bucket": "termo-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079393902916:android:ec13c164e0c0158d8f7711",
+        "android_client_info": {
+          "package_name": "com.example.termo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUuowzOKCxAEeLY2o62XJ_VF1OxNxLceM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
